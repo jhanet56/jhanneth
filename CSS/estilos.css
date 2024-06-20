@@ -1,0 +1,97 @@
+.principal
+{
+    background-color: rgb(183, 239, 252);
+    width: 1800px;
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja
+{
+    background-color: rgb(246, 188, 113);
+    width: 500px;
+    height: 800px;
+    margin: 5px;
+    display: flex;
+    border-radius: 5%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+.caja3
+{
+    background-color: rgb(241, 63, 63) ;
+    margin: 5px;
+    width: 450px;
+    height: 70px;
+    position: relative;
+    left: 16px;
+    top: 7px;
+}
+#caja1
+{
+    margin: auto;
+    float: left;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(243, 141, 16);
+
+}
+#caja3 
+{
+    margin: auto;
+    float: right;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(226, 122, 43);
+}
+#caja2
+{
+    margin: auto;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-radius: 40%;
+    width: 30px;
+    height: 90px;
+    background-color: rgb(235, 254, 92);
+}
+#caja4 
+{
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    /*border-radius: 40%;*/
+    width: 390px;
+    height: 1px;
+    background-color: gold;
+}
+/*.caja3-1
+{
+    background-color:rgb(136, 20, 31) ;
+    margin: 5px;
+    width: 180px;
+    height: 280px;
+    position: relative;
+    left: 55px;
+    top: 2px;
+}*/
+.caja3-1-1
+{
+    background-color: chocolate;
+    margin: 5px;
+    width: 110px;
+    height: 80px;
+    position: relative;
+    left: 103px;
+    top: 10px;
+}
